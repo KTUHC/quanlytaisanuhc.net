@@ -48,6 +48,12 @@
             {!! $snipeSettings->show_custom_css() !!}
         </style>
     @endif
+    <style type="text/css">
+        .login-page{
+            background-image: url("img/background.jpg");
+            background-size: cover;
+        }
+    </style>
 
 </head>
 
